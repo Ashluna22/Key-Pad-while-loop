@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Key.pad.while.loop\key-pad-while-loop\key-pad-while-loop\obj\Debug\key-pad-while-loop.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Key.pad.while.loop\key-pad-while-loop\key-pad-while-loop\obj\Debug\key-pad-while-loop.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Key.pad.while.loop\key-pad-while-loop\key-pad-while-loop\bin\Debug\key-pad-while-loop.exe.config
+C:\Users\Owner\Desktop\Key.pad.while.loop\key-pad-while-loop\key-pad-while-loop\bin\Debug\key-pad-while-loop.exe
+C:\Users\Owner\Desktop\Key.pad.while.loop\key-pad-while-loop\key-pad-while-loop\bin\Debug\key-pad-while-loop.pdb
+C:\Users\Owner\Desktop\Key.pad.while.loop\key-pad-while-loop\key-pad-while-loop\obj\Debug\key-pad-while-loop.exe
+C:\Users\Owner\Desktop\Key.pad.while.loop\key-pad-while-loop\key-pad-while-loop\obj\Debug\key-pad-while-loop.pdb
